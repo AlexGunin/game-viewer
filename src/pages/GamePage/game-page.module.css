@@ -1,0 +1,10 @@
+.main {
+    height: calc(100vh - var(--app-padding) - var(--app-padding));
+}
+
+.titleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
